@@ -1,0 +1,5 @@
+proprietary/vendor/lib64/camera/com.qti.tuned.munch_ofilm_imx582_wide.bin filter=lfs diff=lfs merge=lfs -text
+proprietary/vendor/etc/camera/model/cap_model/capture_model filter=lfs diff=lfs merge=lfs -text
+proprietary/vendor/lib64/librelight_only.so filter=lfs diff=lfs merge=lfs -text
+proprietary/vendor/lib64/libst_soft_isp_shared.so filter=lfs diff=lfs merge=lfs -text
+proprietary/vendor/lib64/libxmi_high_dynamic_range_cdsp.so filter=lfs diff=lfs merge=lfs -text
